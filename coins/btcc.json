@@ -1,0 +1,7 @@
+{
+    "name": "Bitcoin Core",
+    "symbol": "BTCC",
+    "algorithm": "blake2b",
+    "peerMagic": "e3e1f3e8",
+    "peerMagicTestnet": "f4e5f3f4"
+}
